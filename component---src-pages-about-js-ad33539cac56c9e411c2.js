@@ -1,0 +1,2 @@
+webpackJsonp([0xefeaa6d1881d],{363:function(e,t,n){(function(l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=n(6);u(a);t.default=function(){return l.createElement("div",null,l.createElement("h1",null,"About Hello World Tutorials for beginners"),l.createElement("p",null,"We the site dedicated to getting you up and running with 3D as quickly as possible."))},e.exports=t.default}).call(t,n(38))}});
+//# sourceMappingURL=component---src-pages-about-js-ad33539cac56c9e411c2.js.map
