@@ -1,2 +1,0 @@
-webpackJsonp([0xd38282b78284],{498:function(t,a){t.exports={data:{markdownRemark:{html:"<h1>Thalhalla main site</h1>\n<p>This is a static render of the <code>gatsby</code> branch</p>",frontmatter:{title:""}}},pathContext:{slug:"/static/README/"}}}});
-//# sourceMappingURL=path---static-readme-6d46f4bc9f95521e45f3.js.map
