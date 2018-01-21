@@ -21,24 +21,28 @@
       "component---src-layouts-index-js-721e1f2976913a26c060.js.map"
     ],
     "path---index": [
-      "path---index-38f322fcf92c43e07123.js",
-      "path---index-38f322fcf92c43e07123.js.map"
+      "path---index-12176f1f6aa259acd087.js",
+      "path---index-12176f1f6aa259acd087.js.map"
     ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
     ],
     "path---my-files": [
-      "path---my-files-940a746ae584a30a9924.js",
-      "path---my-files-940a746ae584a30a9924.js.map"
+      "path---my-files-115617cca75750bb2fa1.js",
+      "path---my-files-115617cca75750bb2fa1.js.map"
     ],
     "commons": [
       "commons-93dad60b3cb962dc9d77.js",
       "commons-93dad60b3cb962dc9d77.js.map"
     ],
     "app": [
-      "app-5447142f6662e243eb33.js",
-      "app-5447142f6662e243eb33.js.map"
+      "app-5491f75baa47747ab4e1.js",
+      "app-5491f75baa47747ab4e1.js.map"
+    ],
+    "path---static-readme": [
+      "path---static-readme-6d46f4bc9f95521e45f3.js",
+      "path---static-readme-6d46f4bc9f95521e45f3.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-ad33539cac56c9e411c2.js",
