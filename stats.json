@@ -1,44 +1,44 @@
 {
   "assetsByChunkName": {
-    "path---hello-3-dworld-thalhalla": [
-      "path---hello-3-dworld-thalhalla-63cc072b514acf457f72.js",
-      "path---hello-3-dworld-thalhalla-63cc072b514acf457f72.js.map"
+    "path---welcome-thalhalla": [
+      "path---welcome-thalhalla-a43f140e8468eddbeb67.js",
+      "path---welcome-thalhalla-a43f140e8468eddbeb67.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-88ddaeedd7425420de7e.js",
       "component---src-pages-index-js-88ddaeedd7425420de7e.js.map"
     ],
     "path---": [
-      "path----44a816f8ab20d873f09c.js",
-      "path----44a816f8ab20d873f09c.js.map"
+      "path----3281515d2aacc147dc1a.js",
+      "path----3281515d2aacc147dc1a.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
       "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2d9eab46760bd0a6947b.js",
-      "component---src-layouts-index-js-2d9eab46760bd0a6947b.js.map"
+      "component---src-layouts-index-js-ce878a832a851dc32750.js",
+      "component---src-layouts-index-js-ce878a832a851dc32750.js.map"
     ],
     "path---index": [
-      "path---index-1063f888f544c9626b2c.js",
-      "path---index-1063f888f544c9626b2c.js.map"
+      "path---index-588c3b308bb48da8eeeb.js",
+      "path---index-588c3b308bb48da8eeeb.js.map"
     ],
     "component---src-pages-my-files-js": [
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
       "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
     ],
     "path---my-files": [
-      "path---my-files-6ba9f9f016e1e02a0091.js",
-      "path---my-files-6ba9f9f016e1e02a0091.js.map"
+      "path---my-files-368dbf953acd82c14afc.js",
+      "path---my-files-368dbf953acd82c14afc.js.map"
     ],
     "commons": [
       "commons-93dad60b3cb962dc9d77.js",
       "commons-93dad60b3cb962dc9d77.js.map"
     ],
     "app": [
-      "app-405e7713f8ae47f31e8d.js",
-      "app-405e7713f8ae47f31e8d.js.map"
+      "app-1b4a362ee2c7a7bf23a4.js",
+      "app-1b4a362ee2c7a7bf23a4.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-ba070e22b80af9ae2d16.js",

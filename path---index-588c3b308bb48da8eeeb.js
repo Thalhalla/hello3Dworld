@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{494:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/home/travis/build/Thalhalla/thalhalla.github.io/src/pages/welcome-thalhalla.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Welcome to Thalhalla",date:"24 January, 2018"},fields:{slug:"/welcome-thalhalla/"},excerpt:"H3ll0 all and welcome to Thalhalla, we'll start hosting a few games again over the next few weeks. Keep posted here for news."}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-588c3b308bb48da8eeeb.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([30276882840998],{496:function(e,a){e.exports={data:{markdownRemark:{html:"<p>H3ll0 all and welcome to Thalhalla, we'll start hosting a few games again over the next few weeks.</p>\n<p>Keep posted here for news.</p>",frontmatter:{title:"Welcome to Thalhalla"}}},pathContext:{slug:"/welcome-thalhalla/"}}}});
+//# sourceMappingURL=path---welcome-thalhalla-a43f140e8468eddbeb67.js.map
